@@ -16,7 +16,6 @@ HTML5 Canvas: The canvas element is utilized to render the visual components of 
 
 Getting Started
 
-Clone the repository: git clone https://github.com/your-username/bouncing-balls.git
 
 Open index.html in a web browser.
 
